@@ -7,7 +7,7 @@ Summary:	Streaming data processing library
 Summary(pl.UTF-8):	Biblioteka przetwarzania danych strumieniowych
 Name:		ghc-%{pkgname}
 Version:	1.3.2
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/conduit
